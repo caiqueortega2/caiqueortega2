@@ -1,55 +1,42 @@
-<h1 align="center">👨‍💻 Caique Arquiel</h1>
-<h3 align="center">💻 Estudante de Redes | 🔐 Foco em Cibersegurança | 🐍 Dev Python</h3>
+## 👨‍💻 Caique Arquiel | Estudante de Redes com foco em Cibersegurança
+
+🎓 **Estudante de Redes de Computadores** com especialização em **Cibersegurança** e interesse em **Ciência da Computação**  
+📍 Brasil | 🌐 Atuação focada em ambientes corporativos e laboratoriais
 
 ---
 
-### 🧠 Sobre mim
+### 🛡️ Blue Team | Defesa e Monitoramento
 
-🎓 Estudante de Redes de Computadores com foco em **Cibersegurança** e **Ciência da Computação**  
-🔐 Entusiasta de **Segurança da Informação**, com experiência prática em:  
-- Hardening de sistemas
-- Firewalls (iptables)
-- Protocolos seguros
-- Análise de tráfego de rede
-
-🧰 Familiaridade com **SIEMs** como **Wazuh** e **Splunk** para correlação de eventos e resposta a incidentes  
-🐍 Desenvolvedor **Python**, criando soluções para automação, parsing de logs e ferramentas ofensivas/defensivas  
-🖥️ Administro sistemas **Linux**, servidores, ambientes virtualizados e monitoramento com **Zabbix**
-
-🛡️ Experiência em:
-- Testes de intrusão (Pentest)
-- OSINT & Footprinting
-- Engenharia social
-- Honeypots
-
-📚 Em constante aprendizado em **Red Team**, **Blue Team** e ambientes **SOC**
+- 🔐 **Segurança da Informação:** hardening de sistemas, protocolos seguros, políticas de acesso e backup
+- 🧠 **SIEM:** familiaridade com Wazuh, Splunk — análise de logs, correlação de eventos e resposta a incidentes
+- 🖥️ **Monitoramento de Infra:** Zabbix, Cacti e Netdata para análise de performance e segurança em tempo real
+- 🔎 **Análise de tráfego de rede:** tcpdump, Wireshark e Suricata
+- 📂 **Ambientes Linux & Windows Server:** configuração, gerenciamento e proteção
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 🕵️‍♂️ Red Team | Testes de Intrusão e Engenharia Social
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-02658E?style=for-the-badge&logo=data:image/svg+xml;base64,<base64_logo_optional>&logoColor=white)
+- 🧰 **Pentest:** coleta de informações (OSINT), footprinting, varredura de vulnerabilidades e exploração
+- 🎯 **Engenharia Social:** simulações de phishing e criação de cenários de ataque
+- 🐍 **Automação ofensiva em Python:** scripts para brute force, enumeração e geração de payloads
+- 🍯 **Honeypots:** criação de iscas para coleta de tentativas de ataque e análise de comportamento
 
 ---
 
-### 📂 Meus Projetos em Destaque
+### 💻 Desenvolvimento & Ferramentas
 
-- 🔒 [scripts-iptables](https://github.com/eaemarim39/scripts-iptables): Regras de segurança configuradas para servidores Linux
-- 🐍 [cadastro-de-jogos](https://github.com/eaemarim39/cadastro-de-jogos): Aplicativo simples em Python para cadastro e listagem de jogos usando `.txt`
+- 🐍 **Python Developer:** automação de tarefas, análise de logs, parsing de arquivos e ferramentas de segurança
+- 🔧 **Shell Script / Bash:** scripts para configuração de firewall (iptables), backups e scanners
+- ☁️ **Virtualização & Laboratórios:** criação de ambientes com VirtualBox, VMWare e Proxmox
 
 ---
 
 ### 📫 Contato
 
-- 💌 Email: eaemarim39@outlook.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/caique-arquiel/)
+- 📧 **Email:** eaemarim39@outlook.com  
+- 💼 **LinkedIn:** [linkedin.com/in/caique-arquiel](https://www.linkedin.com/in/caique-arquiel/)
+- 📁 **Veja meus projetos abaixo 👇**
 
 ---
-
-> “Segurança não é um produto, é um processo.” – Bruce Schneier
 
