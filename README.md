@@ -27,11 +27,4 @@
 
 ---
 
-### 📫 Contato
 
-- 📧 **Email:** eaemarim39@outlook.com  
-- 💼 **LinkedIn:** [linkedin.com/in/caique-arquiel](https://linkedin.com/in/caique-arquiel)
-
----
-
-<p align="center">👀 Veja meus projetos abaixo 👇</p>
