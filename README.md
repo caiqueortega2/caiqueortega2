@@ -6,7 +6,7 @@
 ### 🧠 Sobre mim
 
 🎓 Estudante de Redes de Computadores com foco em **Cibersegurança** e **Ciência da Computação**  
-🔐 Apaixonado por **Segurança da Informação**, com experiência prática em:  
+🔐 Entusiasta de **Segurança da Informação**, com experiência prática em:  
 - Hardening de sistemas
 - Firewalls (iptables)
 - Protocolos seguros
