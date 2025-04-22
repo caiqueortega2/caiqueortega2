@@ -1,7 +1,6 @@
 # 👨‍💻 Caique Ortega
 
-> 🛡️ Estudante de Redes com foco em Cibersegurança  
-> 🎓 Cursando Redes de Computadores na Estácio (conclusão em 2025)  
+> 🛡️ Estudante de Redes com foco em Cibersegurança
 
 ### 🚀 Linguagens e Tecnologias
 
