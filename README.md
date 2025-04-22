@@ -1,6 +1,6 @@
 # 👨‍💻 Caique Ortega
 
-> 🛡️ Estudante de Redes com foco em Cibersegurança
+> 🛡️ Estudante de Redes com foco em Cibersegurança   
 
 ### 🚀 Linguagens e Tecnologias
 
@@ -25,8 +25,8 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiqueortega2&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueortega2&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiqueortega2&show_icons=true&theme=dark&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueortega2&layout=compact&theme=dark&title_color=58a6ff&text_color=c9d1d9&card_width=340&custom_title=Tecnologias" />
 </div>
 
 ---
