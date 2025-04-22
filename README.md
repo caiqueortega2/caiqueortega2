@@ -1,7 +1,6 @@
 ## 👨‍💻 Caique Arquiel | Estudante de Redes com foco em Cibersegurança
 
 🎓 **Estudante de Redes de Computadores** com especialização em **Cibersegurança** 
-🌐 Atuação focada em ambientes corporativos e laboratoriais
 
 ---
 
