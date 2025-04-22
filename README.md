@@ -30,6 +30,14 @@
 - ☁️ **Virtualização & Laboratórios:** criação de ambientes com VirtualBox, VMWare e Proxmox
 
 ---
+### 🧰 Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-02658E?style=for-the-badge&logo=data:image/svg+xml;base64,<base64_logo_optional>&logoColor=white)
 
 ### 📫 Contato
 
