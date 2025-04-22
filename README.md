@@ -1,6 +1,8 @@
 # 👨‍💻 Caique Ortega
 
-Estudante de Redes com foco em Cibersegurança  
+Me chamo Caique Ortega, atualmente curso Redes de Computadores na Estácio e Ciência da Computação na Uninter.
+Tenho foco em Cibersegurança, atuando com práticas de Blue Team e Red Team, análise de tráfego, automação em Python e administração de ambientes Linux e Windows.
+Busco constantemente aprimorar meus conhecimentos em segurança da informação e infraestrutura.
 
 
 ### 🚀 Linguagens e Tecnologias
