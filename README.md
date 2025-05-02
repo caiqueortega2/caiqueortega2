@@ -1,8 +1,5 @@
 # 👨‍💻 Caique Ortega
 
-Me chamo Caique Ortega, atualmente curso Redes de Computadores na Estácio e Ciência da Computação na Uninter.
-Tenho foco em Cibersegurança, atuando com práticas de Blue Team e Red Team.
-
 ### 🚀 Linguagens e Tecnologias
 
 <p>
