@@ -45,22 +45,3 @@ Experiência prática com SIEM, threat intelligence, hardening de infraestrutura
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
-### 📊 Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiqueortega2&show_icons=true&theme=dark&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&custom_title=Estatísticas%20do%20GitHub%20de%20Caique%20Ortega" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueortega2&layout=compact&theme=dark&title_color=58a6ff&text_color=c9d1d9&card_width=340&custom_title=Tecnologias" />
-</div>
-
----
-
-### 📫 Contato
-<p>
-  <a href="https://www.linkedin.com/in/caique-arquiel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:caiquemarim39@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
